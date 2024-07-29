@@ -1,4 +1,5 @@
 Projetos de HTML e CSS
+
 Este repositório contém uma coleção de projetos desenvolvidos utilizando HTML e CSS. Cada projeto foi criado com o objetivo de aprimorar minhas habilidades em design e desenvolvimento front-end, focando em responsividade, acessibilidade e boas práticas de codificação.
 
 Projetos
